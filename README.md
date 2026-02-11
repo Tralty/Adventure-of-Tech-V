@@ -3,7 +3,7 @@
 This adventure is going to be different from the previous ones! Along with mods that will change the way the world looks, there is finally a quest book that you can follow to help you along the way to become powerful than ever before! This version will be taking it back to where it was before the previous update with the amount of mods it has so that more people can play!
 
 ![BH AT5 special thanks](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_5/BH_AT5_thanks.webp)
-Big thanks to [EminGT](https://www.curseforge.com/members/emingt/projects) for letting us include Complementary [Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) & [Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)! Big thanks to BisectHosting for partnering and creating the art!
+Big thanks to [EminGT](https://www.curseforge.com/members/emingt/projects) for letting us include Complementary [Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) & [Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)! Big thanks to Apex Hosting for partnering!
 
 ![BH AT5 socials](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_5/BH_AT5_socials.webp)
 Discord: https://discord.gg/D5rGTSktEg
