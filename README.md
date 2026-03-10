@@ -17,5 +17,4 @@ Twitter/X: https://twitter.com/TheRealTralty
 Instagram: https://www.instagram.com/therealtralty/
 
 
-[<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_5/BH_AT5_promo2.webp">](https://bisecthosting.com/gio)
-If you'd like to support me and the development of Adventure of Tech V and my other modpacks, I recommend trying out BisectHosting. Use code 'gio' to get 25% off your first month of a gaming server for new customers. They offer 24/7 support and lightning-fast response times, ensuring you're in great hands and providing exceptional assistance for all your gaming needs.
+
